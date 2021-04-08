@@ -3,7 +3,7 @@
 This project uses TailwindCSS and React. For deploy I used the CD flow with Github + Netlify.
 
 You can see the demo [right here.](https://confident-bhaskara-2bb730.netlify.app/)
-For some reason I didn't find out the customers url is not working on heroku but you can verify for new records directly at the API endpoint.
+For some reason I didn't find out the customers url is not working on Netlify but you can verify for new records directly at the API endpoint.
 
 ## Run the project
 
