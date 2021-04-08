@@ -59,7 +59,7 @@ export default function Home() {
         </div>
 
         <div className="m:px-7 sm:pt-7 px-4 pt-4">
-          <div class="container my-12 mx-auto px-4 md:px-12">
+          <div className="container my-12 mx-auto px-4 md:px-12">
             {cars.length > 0 ? (
               <CardList data={cars} handleSelectCar={selectCar} />
             ) : (

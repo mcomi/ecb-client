@@ -49,7 +49,7 @@ export default function Modal({ car, handleSubmit, handleClose, isOpen }) {
                   <div class="w-full">
                     <div class="relative mb-4">
                       <label
-                        for="country"
+                        htmlFor="name"
                         class="block text-sm font-medium text-gray-700"
                       >
                         Name
@@ -64,7 +64,7 @@ export default function Modal({ car, handleSubmit, handleClose, isOpen }) {
                     </div>
                     <div class="mb-4">
                       <label
-                        for="price"
+                        htmlFor="estimateddate"
                         class="block text-sm font-medium text-gray-700"
                       >
                         Estimated Delivery Date
